@@ -13,7 +13,7 @@
 >  Add this dependency to your project
 
 	<dependency>
-      <groupId>com.oxchains</groupId>
+      <groupId>info.investdigital</groupId>
       <artifactId>GCP</artifactId>
 	  <version>1.0-SNAPSHOT</version>
     </dependency>
